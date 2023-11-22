@@ -15,8 +15,10 @@ fun main() {
     println(fname + " "+lname)
     println("I am born in the year of : "+ birthyear)
     lname = "Naidu"   // changed the lname as we can change the var variable
-    
     println(fname + " "+lname)
-
-
 }
+
+// output :
+// Chenchu Reddy
+// I am born in the year of : 1998
+// Chenchu Naidu
