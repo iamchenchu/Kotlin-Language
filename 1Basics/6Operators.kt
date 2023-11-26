@@ -1,3 +1,7 @@
+// the operators are same as in other language 
+// I am giving example of basic operators of arthmetic operators 
+// kotlin also supports logical operators, comparison operaors, Assignment operators 
+
 fun main()
 {
     var x =100
@@ -12,7 +16,7 @@ fun main()
     println(d)
     println(e)
     println(f)
-    
+
 
     
 }
